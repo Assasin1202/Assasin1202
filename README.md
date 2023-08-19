@@ -15,7 +15,7 @@
 - ⚡ Did you know? I wield the keyboard at a blazing<b style="color:cyan"> 125</b>  words per minute! 🌪️
 
 <h3 align="left" style="font-family: 'Roboto', sans-serif; font-size: 28px; color: #00bcd4; text-transform: none; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">Sync our <span style="font-family: 'Monoton', cursive; color: #00bcd4; text-shadow: 0 0 10px rgba(0, 188, 212, 0.8); animation: glow 2s ease-in-out infinite;">Digital</span> Presence:</h3>
-<style>
+<!-- <style>
 @keyframes glow {
   0%, 100% {
     text-shadow: 0 0 10px rgba(0, 188, 212, 0.8);
@@ -24,7 +24,7 @@
     text-shadow: 0 0 20px rgba(0, 188, 212, 0.8);
   }
 }
-</style>
+</style> -->
 <p align="left">
 <a href="https://www.linkedin.com/in/pranav-pant-a83595224/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
 <!-- <a href="https://kaggle.com/yourkaggleusername" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>&nbsp;&nbsp; -->
