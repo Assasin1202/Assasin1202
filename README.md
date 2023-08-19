@@ -1,4 +1,4 @@
-<!-- ![logo](Shashank.png) -->
+
 <h1 align="center">Hi 👋, Myself Pranav Pant </h1>
 <h3 align="center">An enthusiastic 🎓 student in the realm of ✨ Machine Learning and Deep Learning, a virtuoso 🌐 in the realm of web development and an avid problem-solving 🧩 aficionado in the arena of competitive programming. 🚀</h3>
 
@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/pranav-pant-a83595224/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
 <!-- <a href="https://kaggle.com/yourkaggleusername" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>&nbsp;&nbsp; -->
 <!-- <a href="https://instagram.com/yourhandle" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>&nbsp;&nbsp; -->
-<a href="https://www.codechef.com/pranav1208" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/pranav1208" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="40" width="40" /></a>&nbsp;&nbsp;
 <!-- <a href="https://www.leetcode.com/yourusername" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>&nbsp;&nbsp; -->
 <a href="https://discord.gg/assasin_08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" /></a>
 </p>
