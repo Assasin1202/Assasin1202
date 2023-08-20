@@ -1,4 +1,4 @@
-
+![Pranav_Cover](Cover.png)
 <h1 align="center">Hi 👋, Myself Pranav Pant </h1>
 <h3 align="center">An enthusiastic 🎓 student in the realm of ✨ Machine Learning and Deep Learning, a virtuoso 🌐 in the realm of web development and an avid problem-solving 🧩 aficionado in the arena of competitive programming. 🚀</h3>
 
