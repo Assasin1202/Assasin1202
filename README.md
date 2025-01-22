@@ -1,6 +1,6 @@
 # Pranav Pant
 
-## Aspiring Machine Learning Engineer | Competitive Programmer | Web Development Enthusiast
+## Deep Learning Researcher | Seeking FTE Roles | Web Development Enthusiast
 
 With a strong foundation in **Machine Learning** and **Deep Learning**, complemented by proficiency in **web development** and **competitive programming**, I am dedicated to leveraging technology to solve real-world challenges. My academic journey and professional experiences reflect a consistent pursuit of excellence in understanding and applying advanced computational techniques.
 
