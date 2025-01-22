@@ -1,45 +1,38 @@
-# Pranav Pant
+## Pranav Pant
 
-## Deep Learning Researcher | Seeking FTE Roles | Web Development Enthusiast
+### Software Developer | Machine Learning Enthusiast | Researcher
 
-With a strong foundation in **Machine Learning** and **Deep Learning**, complemented by proficiency in **web development** and **competitive programming**, I am dedicated to leveraging technology to solve real-world challenges. My academic journey and professional experiences reflect a consistent pursuit of excellence in understanding and applying advanced computational techniques.
-
----
-
-### 🚀 Current Focus:
-- Exploring **Computer Vision applications** and developing innovative solutions for object detection and image generation.
-- Expanding expertise in **PyTorch**, object detection models, and advanced **sequence models**.
+Hi there! 👋 I’m a **B.Tech. CSE student at IIT Jodhpur**, graduating in May 2025. My journey in tech revolves around building impactful solutions in **Machine Learning**, **Deep Learning**, and **Web Development**. With a keen interest in research, I’ve contributed to advancing facial recognition technologies and multimodal sentiment analysis, among other exciting areas.
 
 ---
 
-### 📫 Let's Connect:
-- **Email:** [pant.4@iitj.ac.in](mailto:pant.4@iitj.ac.in)
-- **LinkedIn:** [Pranav Pant](https://www.linkedin.com/in/pranav-pant-a83595224/)
-- **CodeChef Profile:** [Pranav1208](https://www.codechef.com/users/pranav1208)
-- **Portfolio/Resume:** [Pranav's Resume](https://drive.google.com/file/d/1jNOoLp_QNvCckMROh5-geu1L7bxgwGJB/view?usp=drive_link)
+### 🌟 **What I’ve Worked On**
+- **Facial Recognition for Social Good**: Developed datasets and models to improve recognition accuracy for injured faces, addressing critical gaps in existing systems.
+- **Multimodal Sentiment Analysis**: Designed frameworks to classify product reviews beyond traditional sentiment analysis, exploring innovative prompting methods and adversarial attacks.
+- **Traffic Forecasting**: Built long-term forecasting models integrating socioeconomic factors to achieve highly accurate predictions.
 
 ---
 
-### 🔧 Technical Skills:
-
-#### 🤖 **Machine Learning & Deep Learning:**
-- Proficient in **PyTorch**, **TensorFlow**, and **Scikit-learn**
-- Experienced with **Python**, **OpenCV**, and building object detection pipelines
-
-#### 🌐 **Web Development:**
-- Skilled in **HTML5**, **CSS3**, **JavaScript**, and creating seamless web experiences
-
-#### 🏆 **Competitive Programming:**
-- Problem-solving expertise with programming languages such as **C** and **C++**
-- Active participation in competitive programming platforms like CodeChef
+### 🛠️ **Technical Skills**
+- **Languages**: Python, C++, JavaScript
+- **Frameworks & Tools**: PyTorch, TensorFlow, Flask, React, Scikit-Learn, OpenCV, PostgreSQL
+- **Specialized Areas**: Vision-Language Models, Object Detection, Lightweight Model Deployment
 
 ---
 
-### ⚡ Additional Highlights:
-- Typing speed: **138 words per minute**
-- Passionate about coding, innovation, and solving complex challenges
-- Committed to continuous learning and collaboration
+### 📰 **Publications**
+1. *Beyond Shadows and Light: Odyssey of Face Recognition for Social Good*  
+   Published in **Computer Vision and Image Understanding (CVIU)** Journal.
+2. *Surveying Facial Recognition Models for Diverse Indian Demographics*  
+   Available on [arXiv](https://arxiv.org/abs/2412.08048).
 
 ---
 
-Thank you for visiting my profile! 🌟 I’m eager to contribute to impactful projects, collaborate with talented professionals, and push the boundaries of technological innovation. Feel free to connect with me through the links above!
+### 📬 **Let’s Connect**
+- **Email**: [pant.4@iitj.ac.in](mailto:pant.4@iitj.ac.in)
+- **LinkedIn**: [Pranav Pant](https://www.linkedin.com/in/pranav-pant-a83595224/)
+- **GitHub**: [Assasin1202](https://github.com/Assasin1202)
+
+---
+
+I’m passionate about applying research to real-world problems and am always open to collaborating on impactful projects. Let’s connect and innovate together! 🚀
