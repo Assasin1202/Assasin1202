@@ -40,11 +40,13 @@ Hi there! 👋 I'm a **recent Grad  B.Tech. (CSE) student at IIT Jodhpur**, grad
 ### 📰 &nbsp;**Publications**
 - **"Beyond Shadows and Light: Odyssey of Face Recognition for Social Good"**  
   _Computer Vision and Image Understanding (CVIU), 2025_
-- **"Surveying Facial Recognition Models for Diverse Indian Demographics"**  
+- **"Surveying Facial Recognition Models for Diverse Indian Demographics: A Comparative Analysis on LFW and Custom Dataset"**  
   _arXiv preprint arXiv:2412.08048, 2024_
-- **Further publications** in MedTech Innovations & healthcare price analytics
+- **"VIGIL-AID: Visual Intelligence for Guided Injury Learning and Aid – An Optimized Vision Language Model based Technique"**  
+  _Proceedings of the Indian Conference on MedTech Innovations (ICMI), 2025_
+- **"Machine Learning-Enhanced Oaxaca-Blinder Decomposition for Analyzing Healthcare Test Price Variations Across Indian Cities"**  
+  _Proceedings of the Indian Conference on MedTech Innovations (ICMI), 2025_
 
----
 
 ### 🏅 &nbsp;**Recognition**
 - **India AI Fellow** (Govt. of India, Deep Learning & Multimodal AI)
